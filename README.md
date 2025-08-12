@@ -1,4 +1,4 @@
-# Sanket-GA-Quin-Assistant
+# GA-Quin-Assistant
 
 
 # How to run the Streamlit application
@@ -23,6 +23,7 @@ streamlit run app.py
 4.	SQL Executor Agent- Executing SQL queries and fetching results from database.
 5.	Insight Generator Agent- Analyze the dataframe provided by SQL executor agent and provide textual insights and plots based on the user question.
 6.	Terminate Agent- Stop the execution.
+
 
 
 
